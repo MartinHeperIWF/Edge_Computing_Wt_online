@@ -1,0 +1,20 @@
+numpy==1.21.2
+pint==0.18
+pyserial==3.5
+pyyaml==6.0
+pyqt5==5.15.7
+pyqtgraph==0.11.0
+pyinstaller==5.0.1
+pandas==1.3.5
+scipy==1.2.1
+openpyxl==3.1.1
+matplotlib==3.5.3
+tk==0.1.0
+#pandas==1.4.4
+#scipy==1.9.3
+
+#Code zum Erkstellen der .exe-Datei
+#python -m venv venv
+#venv\Scripts\activate.bat
+#pip install -r requirements.txt
+#pyinstaller installation_specification.spec

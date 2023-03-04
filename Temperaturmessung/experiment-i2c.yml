@@ -1,0 +1,13 @@
+DAQ:
+  name: AnalogDaq
+  port: com4
+Saving:
+  filename: data.dat
+  folder: ../Examples/experiment_results
+Scan:
+  channel: 0
+  delay: 1000ms
+  gain: 0
+  scan_duration: 10sec
+User:
+  name: Temperaturmessung
